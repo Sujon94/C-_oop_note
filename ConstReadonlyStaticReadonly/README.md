@@ -6,7 +6,7 @@
     const string c="Hello";
 
 <h3>Readonly:</h3>
-    <li>Readonly value can be changed only inside non-static constructor at run time.</li>
+    <li>Readonly value can be changed only inside <strong>non-static</strong> constructor at run time.</li>
     Example: 
 
     readonly string re = "Hello";
@@ -23,7 +23,7 @@
     }
 
 <h3>Readonly Static:</h3>
-    <li>Readonly value can be changed only inside static constructor.</li>
+    <li>Readonly value can be changed only inside <strong>static</strong> constructor.</li>
     Example:
 
     readonly static string rse = "Hello";
