@@ -1,0 +1,15 @@
+/home/sujon-71/Documents/C#/C-_oop_note/StaticKeyWord/bin/Debug/net6.0/StaticKeyWord
+/home/sujon-71/Documents/C#/C-_oop_note/StaticKeyWord/bin/Debug/net6.0/StaticKeyWord.deps.json
+/home/sujon-71/Documents/C#/C-_oop_note/StaticKeyWord/bin/Debug/net6.0/StaticKeyWord.runtimeconfig.json
+/home/sujon-71/Documents/C#/C-_oop_note/StaticKeyWord/bin/Debug/net6.0/StaticKeyWord.dll
+/home/sujon-71/Documents/C#/C-_oop_note/StaticKeyWord/bin/Debug/net6.0/StaticKeyWord.pdb
+/home/sujon-71/Documents/C#/C-_oop_note/StaticKeyWord/obj/Debug/net6.0/StaticKeyWord.csproj.AssemblyReference.cache
+/home/sujon-71/Documents/C#/C-_oop_note/StaticKeyWord/obj/Debug/net6.0/StaticKeyWord.GeneratedMSBuildEditorConfig.editorconfig
+/home/sujon-71/Documents/C#/C-_oop_note/StaticKeyWord/obj/Debug/net6.0/StaticKeyWord.AssemblyInfoInputs.cache
+/home/sujon-71/Documents/C#/C-_oop_note/StaticKeyWord/obj/Debug/net6.0/StaticKeyWord.AssemblyInfo.cs
+/home/sujon-71/Documents/C#/C-_oop_note/StaticKeyWord/obj/Debug/net6.0/StaticKeyWord.csproj.CoreCompileInputs.cache
+/home/sujon-71/Documents/C#/C-_oop_note/StaticKeyWord/obj/Debug/net6.0/StaticKeyWord.dll
+/home/sujon-71/Documents/C#/C-_oop_note/StaticKeyWord/obj/Debug/net6.0/refint/StaticKeyWord.dll
+/home/sujon-71/Documents/C#/C-_oop_note/StaticKeyWord/obj/Debug/net6.0/StaticKeyWord.pdb
+/home/sujon-71/Documents/C#/C-_oop_note/StaticKeyWord/obj/Debug/net6.0/StaticKeyWord.genruntimeconfig.cache
+/home/sujon-71/Documents/C#/C-_oop_note/StaticKeyWord/obj/Debug/net6.0/ref/StaticKeyWord.dll

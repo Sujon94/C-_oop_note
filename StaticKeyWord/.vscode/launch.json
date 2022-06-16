@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/ConstReadonlyStaticReadonly/bin/Debug/net6.0/ConstReadonlyStaticReadonly.dll",
+            "program": "${workspaceFolder}/bin/Debug/net6.0/StaticKeyWord.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/ConstReadonlyStaticReadonly",
+            "cwd": "${workspaceFolder}",
             "console": "internalConsole",
             "stopAtEntry": false
         },
