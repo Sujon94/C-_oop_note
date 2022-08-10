@@ -1,0 +1,15 @@
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/DependencyInjection/obj/Debug/net6.0/DependencyInjection.csproj.AssemblyReference.cache
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/DependencyInjection/obj/Debug/net6.0/DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/DependencyInjection/obj/Debug/net6.0/DependencyInjection.AssemblyInfoInputs.cache
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/DependencyInjection/obj/Debug/net6.0/DependencyInjection.AssemblyInfo.cs
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/DependencyInjection/obj/Debug/net6.0/DependencyInjection.csproj.CoreCompileInputs.cache
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/DependencyInjection/bin/Debug/net6.0/DependencyInjection
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/DependencyInjection/bin/Debug/net6.0/DependencyInjection.deps.json
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/DependencyInjection/bin/Debug/net6.0/DependencyInjection.runtimeconfig.json
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/DependencyInjection/bin/Debug/net6.0/DependencyInjection.dll
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/DependencyInjection/bin/Debug/net6.0/DependencyInjection.pdb
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/DependencyInjection/obj/Debug/net6.0/DependencyInjection.dll
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/DependencyInjection/obj/Debug/net6.0/refint/DependencyInjection.dll
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/DependencyInjection/obj/Debug/net6.0/DependencyInjection.pdb
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/DependencyInjection/obj/Debug/net6.0/DependencyInjection.genruntimeconfig.cache
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/DependencyInjection/obj/Debug/net6.0/ref/DependencyInjection.dll
