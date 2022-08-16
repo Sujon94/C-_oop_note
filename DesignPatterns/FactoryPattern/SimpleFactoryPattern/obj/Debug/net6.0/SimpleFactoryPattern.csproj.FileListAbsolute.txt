@@ -1,0 +1,15 @@
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/SimpleFactoryPattern/bin/Debug/net6.0/SimpleFactoryPattern
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/SimpleFactoryPattern/bin/Debug/net6.0/SimpleFactoryPattern.deps.json
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/SimpleFactoryPattern/bin/Debug/net6.0/SimpleFactoryPattern.runtimeconfig.json
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/SimpleFactoryPattern/bin/Debug/net6.0/SimpleFactoryPattern.dll
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/SimpleFactoryPattern/bin/Debug/net6.0/SimpleFactoryPattern.pdb
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/SimpleFactoryPattern/obj/Debug/net6.0/SimpleFactoryPattern.csproj.AssemblyReference.cache
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/SimpleFactoryPattern/obj/Debug/net6.0/SimpleFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/SimpleFactoryPattern/obj/Debug/net6.0/SimpleFactoryPattern.AssemblyInfoInputs.cache
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/SimpleFactoryPattern/obj/Debug/net6.0/SimpleFactoryPattern.AssemblyInfo.cs
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/SimpleFactoryPattern/obj/Debug/net6.0/SimpleFactoryPattern.csproj.CoreCompileInputs.cache
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/SimpleFactoryPattern/obj/Debug/net6.0/SimpleFactoryPattern.dll
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/SimpleFactoryPattern/obj/Debug/net6.0/refint/SimpleFactoryPattern.dll
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/SimpleFactoryPattern/obj/Debug/net6.0/SimpleFactoryPattern.pdb
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/SimpleFactoryPattern/obj/Debug/net6.0/SimpleFactoryPattern.genruntimeconfig.cache
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/SimpleFactoryPattern/obj/Debug/net6.0/ref/SimpleFactoryPattern.dll
