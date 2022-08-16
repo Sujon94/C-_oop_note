@@ -1,0 +1,15 @@
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/AbstractFactoryPattern/bin/Debug/net6.0/AbstractFactoryPattern
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/AbstractFactoryPattern/bin/Debug/net6.0/AbstractFactoryPattern.deps.json
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/AbstractFactoryPattern/bin/Debug/net6.0/AbstractFactoryPattern.runtimeconfig.json
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/AbstractFactoryPattern/bin/Debug/net6.0/AbstractFactoryPattern.dll
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/AbstractFactoryPattern/bin/Debug/net6.0/AbstractFactoryPattern.pdb
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/AbstractFactoryPattern/obj/Debug/net6.0/AbstractFactoryPattern.csproj.AssemblyReference.cache
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/AbstractFactoryPattern/obj/Debug/net6.0/AbstractFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/AbstractFactoryPattern/obj/Debug/net6.0/AbstractFactoryPattern.AssemblyInfoInputs.cache
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/AbstractFactoryPattern/obj/Debug/net6.0/AbstractFactoryPattern.AssemblyInfo.cs
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/AbstractFactoryPattern/obj/Debug/net6.0/AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/AbstractFactoryPattern/obj/Debug/net6.0/AbstractFactoryPattern.dll
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/AbstractFactoryPattern/obj/Debug/net6.0/refint/AbstractFactoryPattern.dll
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/AbstractFactoryPattern/obj/Debug/net6.0/AbstractFactoryPattern.pdb
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/AbstractFactoryPattern/obj/Debug/net6.0/AbstractFactoryPattern.genruntimeconfig.cache
+/home/sujon-71/Documents/C#/C-_oop_note/DesignPatterns/FactoryPattern/AbstractFactoryPattern/obj/Debug/net6.0/ref/AbstractFactoryPattern.dll
